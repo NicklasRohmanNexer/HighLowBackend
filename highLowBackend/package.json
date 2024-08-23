@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build script placeholder",
+    "build": "echo \"Build script placeholder\"",
     "start": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
