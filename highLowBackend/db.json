@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Updated Post",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Another Post"
+    },
+    {
+      "id": "c6a5",
+      "title": "New Post"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Nice post!",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "Thanks for sharing!",
+      "postId": 2
+    }
+  ]
+}
